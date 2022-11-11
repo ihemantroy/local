@@ -31,6 +31,7 @@
 }
 img{
 	max-width: 100%;
+
 }
 .gallery{
 	background-color: #dbddf1;
@@ -53,6 +54,7 @@ img{
 #g2
 {
   padding-top: 8%;
+  padding-bottom: 8%;
 }
 #g1
 {
@@ -69,10 +71,7 @@ img{
   margin-right: auto;
 }
 
-.footer
-{
-  padding-top: 80px;
-}
+
 .btn {
   background: #E0144C;
   background-image: -webkit-linear-gradient(top, #E0144C, #E0144C);
@@ -98,4 +97,27 @@ img{
   background-image: -o-linear-gradient(top, #9A1663, #9A1663);
   background-image: linear-gradient(to bottom, #9A1663, #9A1663);
   text-decoration: none;
+}
+
+#footer
+{
+
+  padding: 0 15% 0 15%;
+
+  /* padding: 7% 15%; */
+  text-align: center;
+  background-color: #D6E4E5;
+
+}
+.icon
+{
+  margin: 20px 10px;
+}
+#last
+{
+  font-size: 70%;
+}
+#designedby
+{
+  font-size: 60%;
 }
